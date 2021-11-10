@@ -1,0 +1,124 @@
+{
+    "shoeses": [
+        {
+            "id": 1,
+            "title": "Giày Thể Thao XSPORT Ni.ke Jordan 1 Low REP",
+            "description": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+            "discount": 30,
+            "price": 400000,
+            "images": {
+                "image": "./images/shoes-1.jpg",
+                "imageSmall_1": "./images/shoes-1.1.jpg",
+                "imageSmall_2": "./images/shoes-1.2.jpg"
+            }
+        },
+        {
+            "id": 2,
+            "title": "Giày thể thao XSPORT Adi.das ZX 2K Boost",
+            "description": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+            "discount": 20,
+            "price": 550000,
+            "images": {
+                "image": "./images/shoes-2.jpg",
+                "imageSmall_1": "./images/shoes-2.1.jpg",
+                "imageSmall_2": "./images/shoes-2.2.jpg"
+            }
+        },
+        {
+            "id": 3,
+            "title": "Giày Thể Thao XSPORT Ni.ke air shadow Rep 1:1",
+            "description": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+            "discount": 20,
+            "price": 700000,
+            "images": {
+                "image": "./images/shoes-3.jpg",
+                "imageSmall_1": "./images/shoes-3.1.jpg",
+                "imageSmall_2": "./images/shoes-3.2.jpg"
+            }
+        },
+        {
+            "id": 4,
+            "title": "Giày Thể Thao XSPORT Conver.se cao cổ 1970s REP",
+            "description": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+            "discount": 73,
+            "price": 950000,
+            "images": {
+                "image": "./images/shoes-4.jpg",
+                "imageSmall_1": "./images/shoes-4.1.jpg",
+                "imageSmall_2": "./images/shoes-4.2.jpg"
+            }
+        },
+        {
+            "id": 5,
+            "title": "Giày XSPORT ADD Alphabounce Beyond REP",
+            "description": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+            "discount": 12,
+            "price": 700000,
+            "images": {
+                "image": "./images/shoes-5.jpg",
+                "imageSmall_1": "./images/shoes-5.1.jpg",
+                "imageSmall_2": "./images/shoes-5.2.jpg"
+            }
+        },
+        {
+            "id": 6,
+            "title": "Giày Thể Thao XSPORT Van.s Vault da lộn Rep",
+            "description": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+            "discount": 10,
+            "price": 800000,
+            "images": {
+                "image": "./images/shoes-6.jpg",
+                "imageSmall_1": "./images/shoes-6.1.jpg",
+                "imageSmall_2": "./images/shoes-6.2.jpg"
+            }
+        },
+        {
+            "id": 7,
+            "title": "Giày Thể Thao XSPORT Ni.ke Air Max 97",
+            "description": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+            "discount": 50,
+            "price": 500000,
+            "images": {
+                "image": "./images/shoes-7.jpg",
+                "imageSmall_1": "./images/shoes-7.1.jpg",
+                "imageSmall_2": "./images/shoes-7.2.jpg"
+            }
+        },
+        {
+            "id": 8,
+            "title": "Giày Thể Thao XSPORT Adi.das Alpha.bounce beyond Rep",
+            "description": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+            "discount": 20,
+            "price": 350000,
+            "images": {
+                "image": "./images/shoes-8.jpg",
+                "imageSmall_1": "./images/shoes-8.1.jpg",
+                "imageSmall_2": "./images/shoes-8.2.jpg"
+            }
+        },
+        {
+            "id": 9,
+            "title": "Giày Thể Thao XSPORT Prophere Rep",
+            "description": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+            "discount": 41,
+            "price": 500000,
+            "images": {
+                "image": "./images/shoes-9.jpg",
+                "imageSmall_1": "./images/shoes-9.1.jpg",
+                "imageSmall_2": "./images/shoes-9.2.jpg"
+            }
+        },
+        {
+            "id": 10,
+            "title": "Giày XSPORT ADD Ultra Boost 6.0 REP",
+            "description": "Chất liệu cao cấp, bền đẹp theo thời gian. Thiết kế thời trang. Kiểu dáng phong cách. Độ bền cao. Dễ phối đồ.",
+            "discount": 35,
+            "price": 550000,
+            "images": {
+                "image": "./images/shoes-10.jpg",
+                "imageSmall_1": "./images/shoes-10.1.jpg",
+                "imageSmall_2": "./images/shoes-10.2.jpg"
+            }
+        }
+    ]
+}
